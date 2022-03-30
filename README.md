@@ -1,9 +1,9 @@
 ## Heyo, sou a Lô! Estudante e aspirante a DEV 🤓
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/lo-borges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lo-borges&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo-borges&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lo-borges&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lo-borges&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 ##
